@@ -1,0 +1,18 @@
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.exe
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.pdb
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.xml
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.vbproj.GenerateResource.Cache
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.exe
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.xml
+C:\Users\Ricardo Gomez\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.xml
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.exe
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.pdb
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\bin\Debug\Formula_General.xml
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\ALUMNO\Documents\Visual Studio 2010\Projects\Formula_General\Formula_General\obj\x86\Debug\Formula_General.vbproj.GenerateResource.Cache
